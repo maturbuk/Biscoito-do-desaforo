@@ -13,8 +13,6 @@ O **Biscoito do Desaforo** é um app que troca previsões otimistas por sincerid
 
 > “Você é insubstituível. Até alguém aceitar ganhar menos.”
 
-> “Respire fundo. A merda continua aí, mas agora você está oxigenado.”
-
 ## 🎮 Como funciona
 
 1. Clique em **Quebrar Biscoito**.
